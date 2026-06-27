@@ -153,8 +153,10 @@ body {
   gap: 10px;
 }
 
-.logo-icon {
-  font-size: 1.5rem;
+.logo-img {
+  height: 24px;
+  width: auto;
+  object-fit: contain;
   filter: drop-shadow(0 0 6px rgba(99,102,241,0.5));
 }
 
